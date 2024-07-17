@@ -34,13 +34,13 @@ This is a Python 3.7 project ran using a JupyterLab in a conda dev environment.
 
 The following dependencies are used:
 
-Jupyter - Running code
-Conda (4.13.0) - Dev environment
-Pandas (1.3.5) - Data analysis
-Matplotlib (3.5.1) - Data visualization
-Numpy (1.21.5) - Data calculations + Pandas support
-hvPlot (0.8.1) - Interactive Pandas plots
-scikit-learn (1.0.2) - KMeans clustering, data normalization, and PCA
+Jupyter - Running code 
+Conda (4.13.0) - Dev environment    
+Pandas (1.3.5) - Data analysis  
+Matplotlib (3.5.1) - Data visualization 
+Numpy (1.21.5) - Data calculations + Pandas support     
+hvPlot (0.8.1) - Interactive Pandas plots   
+scikit-learn (1.0.2) - KMeans clustering, data normalization, and PCA   
 
 # Usage
 The Jupyter notebook crypto_investments.ipynb will provide all steps of the data collection, preparation, and analysis. Data visualizations are shown inline and accompanying analysis responses are provided.
