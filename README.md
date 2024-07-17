@@ -43,5 +43,5 @@ hvPlot (0.8.1) - Interactive Pandas plots
 scikit-learn (1.0.2) - KMeans clustering, data normalization, and PCA   
 
 # Usage
-The Jupyter notebook crypto_investments.ipynb will provide all steps of the data collection, preparation, and analysis. Data visualizations are shown inline and accompanying analysis responses are provided.
+The Jupyter notebook [crypto_investments.ipynb](Crypto_Clustering.ipynb) will provide all steps of the data collection, preparation, and analysis. Data visualizations are shown inline and accompanying analysis responses are provided.
 
